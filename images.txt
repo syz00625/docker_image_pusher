@@ -14,7 +14,7 @@ portainer/portainer-ce:2.19.0
 redis
 openjdk:11
 infiniflow/ragflow:v0.20.0-slim
-n8n
+n8n:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
