@@ -1,3 +1,4 @@
+nsqio/nsq:latest
 nginx
 #alphine
 kasmweb/nginx:1.25.3
