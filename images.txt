@@ -1,3 +1,4 @@
+rycus86/goland:1.26.2
 rycus86/goland:latest
 nsqio/nsq:latest
 nginx
