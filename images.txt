@@ -1,4 +1,4 @@
-goland:latest
+rycus86/goland:latest
 nsqio/nsq:latest
 nginx
 #alphine
