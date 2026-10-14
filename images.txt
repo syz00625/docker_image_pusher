@@ -1,4 +1,4 @@
-amd64/busybox:latest
+busybox:latest
 golang:1.26.2-alpine
 rycus86/goland:latest
 nsqio/nsq:latest
