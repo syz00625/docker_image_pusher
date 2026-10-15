@@ -1,3 +1,4 @@
+nginx:1.27-alpine
 busybox:1.37
 golang:1.26.2-alpine
 rycus86/goland:latest
