@@ -1,4 +1,4 @@
-tiller:v2.13.1
+cirros:0.6.3
 perl:5.36
 nginx:1.30
 nginx:1.27-alpine
